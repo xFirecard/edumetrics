@@ -407,19 +407,16 @@ nav {
 .scroll-indicator {
     position: absolute;
     bottom: 30px;
-    left: 50%;
-    transform: translateX(-50%);
-    width: auto;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
+    width: 100%;
     text-align: center;
     color: var(--secondary-white);
-    animation: fadeInUp 2s ease forwards;
     cursor: pointer;
     opacity: 0.8;
     transition: opacity 0.3s ease;
     z-index: 10;
+    left: 0;
+    right: 0;
+    display: block;
 }
 
 .scroll-indicator:hover {
@@ -438,6 +435,8 @@ nav {
     letter-spacing: 2px;
     font-size: 0.8rem;
     white-space: nowrap;
+    display: block;
+    margin: 0 auto;
 }
 
 @keyframes pulseOnce {
