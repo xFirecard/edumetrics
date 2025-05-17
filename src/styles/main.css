@@ -940,10 +940,6 @@ footer {
     margin-bottom: var(--spacing-sm);
 }
 
-.member-bio {
-    color: var(--secondary-gray);
-}
-
 .timeline-section {
     padding: var(--spacing-xl) 0;
     background-color: var(--secondary-white);
@@ -999,25 +995,28 @@ footer {
 }
 
 .partners-section {
-    padding: var(--spacing-xl) 0;
+    padding: var(--spacing-lg) 0;
     background: linear-gradient(135deg, rgba(106, 17, 203, 0.05), rgba(0, 255, 255, 0.05));
 }
 
 .partners-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-    gap: var(--spacing-md);
+    grid-template-columns: repeat(3, 1fr);
+    gap: var(--spacing-lg);
+    margin: var(--spacing-lg) auto;
+    max-width: 1100px;
 }
 
 .partner {
     display: flex;
     align-items: center;
     justify-content: center;
-    padding: var(--spacing-md);
+    padding: var(--spacing-xl);
     background-color: var(--secondary-white);
     border-radius: var(--border-radius-lg);
     box-shadow: var(--shadow-default);
     transition: var(--transition-default);
+    height: 180px;
 }
 
 .partner:hover {
@@ -1026,9 +1025,11 @@ footer {
 }
 
 .partner img {
-    max-width: 100%;
+    max-width: 240px;
+    max-height: 140px;
+    width: auto;
     height: auto;
-    max-height: 80px;
+    object-fit: contain;
     filter: grayscale(100%);
     transition: var(--transition-default);
 }
