@@ -1,0 +1,26 @@
+You are an expert coder with 20 years of experience that currently has no work. You are fluent in english and Greek and you need to win a competition by edumetrics for their new website to win the prize of 200000 euros if your website is selected as the winner, a life or death situation. You are given the following information regarding the company: <H EduMetrics πραγματοποιεί την ενσωμάτωση και την παράλληλη κριτική των καθηγητών στην εκπαίδευση. Πραγματοποιείται μεσω της ορθής κριτικής από τους μαθητές μέσω των διαγωνισμάτων, των τεστ και μέσω συνεντεύξεων που αφορούν την ορθή απόδοση και αποτελεσματικότητα των εκπαιδευτικών κατα την διάρκεια της εκπαιδευτικής διαδικασίας. Η τεχνητή νοημοσύνη θα αξιοποιεί τις παραπάνω πληροφορίες έτσι ώστε να κρίνει την καταλληλότητα του εκπαιδευτικού.
+
+Η ανάγκη ύπαρξης μιας εταιρίας σαν την Edumetrics:
+
+Είναι αναμφίβολο οτι η αναποτελεσματικότητα ενός εκπαιδευτικού συστήματος προκαλείται απο την αναποτελεσματικότητα των ίδιων των εκπαιδευτικών. Ειδικά στην Ελλάδα τα προβλήματα με τους καθηγητές είναι εμφανή και σε συνδυασμό με την έλλειψη αντικειμενικότητας και προσεκτικής επιλογής των εκπαιδευτικών-διευθυντών εκ μέρους του κράτους, έχουν ως αποτέλεσμα ενα εκπαιδευτικό σύστημα στο οποίο απουσιάζει το πάθος για την διδασκαλία και την ορθή εκπαίδευση των μαθητών και μελλοντικών εκπαιδευτικών. Τα παραπάνω οδηγούν σε ένα κλίμα αντιπάθειας για την γνώση, για το σχολείο και για την εκπαιδευτική διαδικασία, αποθαρρύνοντας τους ίδιους τους μαθητές και καθηγητές. Σταδιακά έτσι, η σχέση μαθητών και εκπαιδευτικών κλονίζεται.
+
+Η εξέλιξη που μπορεί να έχει μια τέτοια επιχείρηση:
+
+Μία τέτοια ιδέα μπορεί να εξελιχθεί και να ενσωματωθεί σε επιχειρήσεις που είναι σημαντική η προσεκτική αξιολόγηση υπαλλήλων, όπως είναι για παράδειγμα εταιρίες marketing ή φροντιστηρίων.
+
+Παράλληλα, θα αναδείκνυε την αποτελεσματικότητα στην εργασία των υπαλλήλων και θα ενίσχυε την αντικειμενικότητα στην αξιολόγηση των εργαζόμενων, καταπολεμώντας την γραφειοκρατία και την αναποτελεσματικότητα σε πλήθος συστημάτων, όπως είναι για παράδειγμα εκπαιδευτικοί και διευθυντές σε σχολεία.
+
+Υλοποίηση αυτής της ιδέας:
+
+Ανάπτυξη μίας εφαρμογής η οποία θα αξιοποιεί την τεχνητή νοημοσύνη (AI)  στην οποία θα γίνεται εγγραφή εκπαιδευτικών και μαθητών. Στο τέλος κάθε σχολικού έτους ή εξαμήνου, οι μαθητές θα έχουν τη δυνατότητα να αξιολογήσουν τους καθηγητές τους ως προς την αποτελεσματικότητά τους καθώς και την παροχή βοήθειας- ενθάρρυνσης που δέχτηκαν από τους τελευταίους. Ταυτόχρονα μια επιτροπή θα κρίνει τους καθηγητές μέσω συνεντεύξεων και αξιολογήσεων. Σε τελικό στάδιο, το AI μέσω των δεδομένων που θα έχει συλλέξει, θα αποφασίζει την καταλληλότητα του εκάστοτε καθηγητή.
+
+Προβλήματα και κίνδυνοι που μπορούν να προκύψουν:
+
+Η αξιολόγηση προϋποθέτει την αντικειμενικότητα των μαθητών και την παράλληλη αποδοχή της κριτικής από τους καθηγητές με την απουσία αντιδράσεων. Είναι σημαντικό επίσης η εφαρμογή ενός τέτοιου project να γίνει από αμερόληπτες, τρίτες πηγές οι οποίες δεν θα έχουν συμφέρον σε τυχόν δυσλειτουργίες του προγράμματος όπως για παράδειγμα την λανθασμένη κριτική ενός καθηγητή.>
+You are inspired by the website https://www.iamgaia.com/ and want to use the company's colours which are a a gradient from purple to blue to cyan. The website has to be in greek and we need at least 6 web pages inside the website, including a contact form. Do your best.
+-
+Great job! I have attached the company's logo to use at the icons folder, also convert it to a favicon. Make the translation feauture work and also make it flags rather than text. And in general make landing page more modern and attractive.
+-
+on the landing page i want the hero section resized to fit the whole screen (not the header of course) so the user has to scroll to see more information and make it "pop" with maybe a background animation or what you think would be the prettiest, you have full crative freedom.
+-
+You have a PHD and 20 years experience with the Greek language. Your job is to check all html pages for any mistakes in the language and fix them accordingly. Keep a professional and friendly attitude
