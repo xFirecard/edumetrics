@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="20" viewBox="0 0 30 20">
+  <!-- UK Flag -->
+  <rect width="30" height="20" fill="#012169"/>
+  <!-- White diagonals -->
+  <path d="M0,0 L30,20 M30,0 L0,20" stroke="white" stroke-width="2"/>
+  <!-- Red diagonals -->
+  <path d="M0,0 L30,20 M30,0 L0,20" stroke="#C8102E" stroke-width="1"/>
+  <!-- White cross -->
+  <rect width="30" height="4" y="8" fill="white"/>
+  <rect width="4" height="20" x="13" fill="white"/>
+  <!-- Red cross -->
+  <rect width="30" height="2" y="9" fill="#C8102E"/>
+  <rect width="2" height="20" x="14" fill="#C8102E"/>
+</svg>
